@@ -37,6 +37,7 @@ export default function MainPage() {
             display: inline-block;
         }
         body {
+          overflow-x: hidden;
           padding: 0;
           margin: 0;
           color: white;
